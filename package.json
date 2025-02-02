@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "better-react-spinkit": "^2.0.4",
     "cra-template": "1.2.0",
     "email-validator": "^2.0.4",
     "firebase": "^11.2.0",
